@@ -1,0 +1,6 @@
+*.suo
+*.user
+bin
+obj
+log
+internal-nlog.txt
